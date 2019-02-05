@@ -1,0 +1,16 @@
+{
+  "name": "marmol-k",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.4.0"
+  }
+}
